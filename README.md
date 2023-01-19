@@ -1,4 +1,4 @@
-<h1 align="center"> #boraCodar </h1>
+<h1 align="center"> #boraCodar - Music Player</h1>
 
 <p align="center">
 #boraCordar evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
