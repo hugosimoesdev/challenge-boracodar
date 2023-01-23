@@ -16,22 +16,35 @@
 
 <br>
 
-<p align="center">
-  <img alt="projeto Habits" src="https://user-images.githubusercontent.com/58408758/213583678-1572876a-3c02-47f1-9eee-bd0d61613fe2.png" width="100%">
-</p>
+<h2> #boraCodar - Music Player </h2>
+
+<a href="https://user-images.githubusercontent.com/58408758/214085849-bedf20de-a591-4324-aa4e-54beb4754d10.png" align="center">
+  <img alt="#boraCodar - Music Player" src="https://user-images.githubusercontent.com/58408758/214085849-bedf20de-a591-4324-aa4e-54beb4754d10.png" width="50%">
+</a>
+
+<h2> #boraCodar - Product Card </h2>
+<a href="https://user-images.githubusercontent.com/58408758/214085849-bedf20de-a591-4324-aa4e-54beb4754d10.png" align="center">
+  <img alt="#boraCodar - Product Card" src="https://user-images.githubusercontent.com/58408758/214086588-f0775c32-a8d0-45d3-a288-54c17712f372.png" width="50%">
+</a>
+
+
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- Git e Github
+- JavaScript
+- Git
 - Figma
 
 
-## 🔖 Layout
+## 👉 Acessar os projetos
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195050524500542670). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode acessar os projetos clicando nos links abaixo:
+
+- [#boraCodar - Music Player](https://github.com/hugosimoesdev/challenge-boracodar/tree/boracodar%231)
+- [#boraCodar - Product Card](https://github.com/hugosimoesdev/challenge-boracodar/tree/boracodar%232)
 
 ## :memo: Licença
 
